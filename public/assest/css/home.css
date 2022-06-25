@@ -1,0 +1,125 @@
+.header_wrapper .header_top .name{
+    font-family: 'Anton', sans-serif;
+
+}
+.header_wrapper .header_top{
+    background-color: rgb(31, 34, 53);
+}
+.header_wrapper .header_top .main_nav ul{
+    list-style: none;
+    display: flex;
+}
+
+.header_wrapper .header_top .main_nav li{
+   
+
+}
+.header_wrapper .header_top .main_nav a {
+    color: #fff;
+    padding: 20px 15px;
+    display: block;
+}
+.header_wrapper .header_top .main_nav ul li button{
+    border: 1px solid blue;
+    background-color: transparent;
+    color: white;
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.header_wrapper .header_bottom{
+    height: 300px;
+    padding-left: 40px;
+}
+.header_wrapper .header_bottom .slider_bannar{
+    padding-right: 100px; 
+}
+h2{
+    color: rgb(145, 56, 56);
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+/*button{
+    border: 1px solid blue;
+    background-color: transparent;
+    color: white;
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 10px;
+}*/
+.about_me button{
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    margin: 15PX,15PX,15PX,15PX;
+    border-radius: 5px;
+}
+.download_CV button{
+    border: 1px solid blue;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+   
+    border-radius: 5px;
+}
+.img_parant{
+    width: 200px;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+.project{
+    border: 1px solid blue;
+}
+.work_img_parant{
+    width: 370px;
+    overflow: hidden;
+   
+}
+.work_1{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.work_info_1{
+    text-align:;
+}
+.work_img_parant_2{
+    width: 370px;
+    overflow: hidden;
+   
+}
+.work_2{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.work_info_2{
+    text-align:;
+}
+.about_img{
+    width: 200px;
+}
+.aboutimg{
+    width: 100%;
+}
+.about_right{
+}
+.section_from{
+    text-align: center;
+    
+}
+.form-bottom{
+
+}
+.form {
+    padding: 30px  50px 50px;
+    border-radius: 5px;
+    
+}
